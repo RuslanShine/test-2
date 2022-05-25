@@ -6,7 +6,5 @@ public class Main {
         workbench.delaemDetal(100);
         workbench.refuel(50);
         workbench.delaemDetal(100);
-
-
     }
 }
