@@ -17,7 +17,6 @@ public class Workbench {
         } else if (oil<liters){
             System.out.println(name +": Масло закончилось !" );
             isOff =true;
-
         }
     }
 
